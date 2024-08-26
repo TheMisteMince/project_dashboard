@@ -1,9 +1,0 @@
-# Исключение системных и временных файлов
-*.pyc
-__pycache__/
-.DS_Store
-
-# Исключение папок данных
-airflow/postgres-data/
-airflow/logs/
-airflow/plugins/
